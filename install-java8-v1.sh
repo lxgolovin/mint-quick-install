@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 ##################################################################################################################
 # Written to be used on 64 bits computers
 # Author 	: 	Erik Dubois
@@ -7,13 +7,6 @@
 # Author 	: 	Alexander Golovin
 # Website 	: 	https://eshkincode.ru
 ##################################################################################################################
-##################################################################################################################
-#
-#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
-#
-##################################################################################################################
-
-
 sudo add-apt-repository ppa:webupd8team/java -y
 sudo apt-get update
 
@@ -25,7 +18,7 @@ sudo apt-get install oracle-java8-set-default
 
 java -version
 
-sudo apt-get install openjdk-8-jdk -y 
+sudo apt-get install openjdk-8-jdk -y
 sudo apt-get install openjdk-8-doc -y
 sudo apt-get install openjdk-8-source -y
 

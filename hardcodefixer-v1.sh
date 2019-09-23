@@ -1,12 +1,5 @@
 #!/bin/bash
 
-##################################################################################################################
-#
-#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
-#
-##################################################################################################################
-
-
 # if there is already a folder, delete or else do nothing
 
 echo "The script will install itself in the /tmp/hardcode-fixer folder"

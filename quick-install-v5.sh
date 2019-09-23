@@ -1,10 +1,4 @@
 #!/bin/bash
-#
-##################################################################################################################
-#
-#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
-#
-##################################################################################################################
 
 sudo apt update -y
 sudo apt upgrade -y
@@ -78,7 +72,6 @@ sh 4-install-distro-specific-software.sh
 
 ###sh theme-arc-colora-collection-3.2-v1.sh
 ###sh theme-mint-y-colora-collection-3.2-v1.sh
-
 
 echo "Starting full maintenance"
 echo "Force install"
