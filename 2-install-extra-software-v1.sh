@@ -72,7 +72,7 @@ set -e
 
 # Teamviewer
 
-/bin/sh install-teamviewer-v*.sh
+# /bin/sh install-teamviewer-v*.sh
 
 #############################################################################################
 
