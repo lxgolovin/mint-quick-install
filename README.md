@@ -322,8 +322,6 @@ Then you can execute it by typing
 Or you can follow these steps
 
 ![Screenshots](http://i.imgur.com/vXsOaFL.gif)
-
-
 ------------------------------------
 #But that is the fun in Linux.
 
