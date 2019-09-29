@@ -104,6 +104,10 @@ set -e
 
 /bin/sh install-megasync-v*.sh
 
+# Remmina installer
+
+/bin/sh ./more_software/install-remmina-v*.sh
+
 echo "################################################################"
 echo "###################   extra software installed  ################"
 echo "################################################################"
