@@ -108,6 +108,10 @@ set -e
 
 /bin/sh ./more_software/install-remmina-v*.sh
 
+# Teams installer
+
+/bin/sh ./more_software/install-teams-v*.sh
+
 echo "################################################################"
 echo "###################   extra software installed  ################"
 echo "################################################################"
