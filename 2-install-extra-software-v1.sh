@@ -112,6 +112,10 @@ set -e
 
 /bin/sh ./more_software/install-teams-v*.sh
 
+# FileZilla installer
+
+/bin/sh ./more_software/install-filezilla-v*.sh
+
 echo "################################################################"
 echo "###################   extra software installed  ################"
 echo "################################################################"
