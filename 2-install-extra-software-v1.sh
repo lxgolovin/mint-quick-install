@@ -114,6 +114,18 @@ set -e
 
 /bin/sh ./more_software/install-remmina-v*.sh
 
+# Teams installer
+
+# /bin/sh ./more_software/install-teams-v*.sh
+
+# Grub installer
+
+/bin/sh ./more_software/install-grub-customizer-v*.sh
+
+# FileZilla installer
+
+/bin/sh ./more_software/install-filezilla-v*.sh
+
 echo "################################################################"
 echo "###################   extra software installed  ################"
 echo "################################################################"
