@@ -116,7 +116,11 @@ set -e
 
 # Teams installer
 
-/bin/sh ./more_software/install-teams-v*.sh
+# /bin/sh ./more_software/install-teams-v*.sh
+
+# Grub installer
+
+/bin/sh ./more_software/install-grub-customizer-v*.sh
 
 # FileZilla installer
 
