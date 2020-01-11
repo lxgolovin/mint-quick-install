@@ -22,7 +22,13 @@ set -e
 
 # Eclipse + netbeans
 
-/bin/sh install-eclipse-netbeans-v*.sh
+/bin/sh ./more_software/install-eclipse-netbeans-v*.sh
+
+###############################################################################################
+
+# Utils
+
+/bin/sh ./more_software/install-utils-v*.sh
 
 ###############################################################################################
 

@@ -323,11 +323,14 @@ Or you can follow these steps
 
 ![Screenshots](http://i.imgur.com/vXsOaFL.gif)
 
-
-------------------------------------
-#But that is the fun in Linux.
+-------------------------------------------------
+# But that is the fun in Linux.
 
 You can do whatever <b>Y O U</b> want.
 
 Share the knowledge.
-------------------------------------
+
+This repository was initially forked from this guy: http://erikdubois.be
+
+Thanks a lot to him!!!
+------------------------------------------------

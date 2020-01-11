@@ -2,15 +2,14 @@
 
 ##################################################################################################################
 # Written to be used on 64 bits computers
-# Author 	: 	Erik Dubois
 # forked by
 # Author 	: 	Alexander Golovin
 # Website 	: 	https://eshkincode.ru
 ##################################################################################################################
 
-sudo snap install eclipse --classic
 sudo snap install netbeans --classic
 sudo snap install notepad-plus-plus
+sudo snap install utorrent
 
 ##################################################################################################################
 
