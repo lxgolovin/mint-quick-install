@@ -9,6 +9,7 @@
 ##################################################################################################################
 
 sudo snap install intellij-idea-community --classic
+sudo snap install intellij-idea-ultimate --classic
 
 echo "################################################################"
 echo "###################     IDEA installed    ######################"

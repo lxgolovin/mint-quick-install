@@ -60,5 +60,5 @@ set -e
 sudo apt-get install -y breeze-cursor-theme
 
 echo "################################################################"
-echo "#############       eye candy software         #################"
+echo "#############       themes and icons installed #################"
 echo "################################################################"

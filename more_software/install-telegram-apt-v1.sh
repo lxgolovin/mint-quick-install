@@ -1,15 +1,9 @@
 #!/bin/bash
 #
-##################################################################################################################
-# Written to be used on 64 bits computers
-# Author 	: 	Erik Dubois
-# forked by
-# Author 	: 	Alexander Golovin
-# Website 	: 	https://eshkincode.ru
-##################################################################################################################
+sudo add-apt-repository -y ppa:atareao/telegram
+sudo apt-get update
 sudo apt-get install telegram-desktop -y
 
-# echo "fixing hardcoded icon"
 old="Icon=\/opt\/telegram\/telegram.svg"
 new="Icon=telegram"
 location="/usr/share/applications/telegram.desktop"
