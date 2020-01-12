@@ -96,7 +96,7 @@ set -e
 
 # Telegram
 
-/bin/sh ./more_software/install-telegram-v*.sh
+/bin/sh ./more_software/install-telegram-snap-v*.sh
 
 ###############################################################################################
 
