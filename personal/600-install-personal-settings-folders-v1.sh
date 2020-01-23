@@ -27,17 +27,6 @@ echo "################################################################"
 [ -d $HOME"/.gimp-2.8/scripts" ] || mkdir -p $HOME"/.gimp-2.8/scripts"
 [ -d $HOME"/.gimp-2.8/themes" ] || mkdir -p $HOME"/.gimp-2.8/themes"
 
-[ -d $HOME"/Desktop" ] || mkdir -p $HOME"/Desktop"
-[ -d $HOME"/Documents" ] || mkdir -p $HOME"/Documents"
-[ -d $HOME"/Downloads" ] || mkdir -p $HOME"/Downloads"
-[ -d $HOME"/DATA" ] || mkdir -p $HOME"/DATA"
-#[ -d $HOME"/Dropbox" ] || mkdir -p $HOME"/Dropbox" will be created by dropbox
-[ -d $HOME"/Insync" ] || mkdir -p $HOME"/Insync"
-[ -d $HOME"/Music" ] || mkdir -p $HOME"/Music"
-[ -d $HOME"/Pictures" ] || mkdir -p $HOME"/Pictures"
-[ -d $HOME"/Videos" ] || mkdir -p $HOME"/Videos"
-
-
 echo "################################################################"
 echo "#########            folders created            ################"
 echo "################################################################"

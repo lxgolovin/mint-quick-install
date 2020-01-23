@@ -11,6 +11,7 @@ sudo sed -i 's/ZSH_THEME=\"robbyrussell\"/ZSH_THEME=\"random\"/g' ~/.zshrc
 # go find the hidden .zshrc file and look for ZSH_THEME="robbyrussell" (CTRL+H to find hidden files)
 # change this to ZSH_THEME="random"
 
+
 echo
 echo
 echo
@@ -25,6 +26,7 @@ echo
 echo "Log off or reboot to see the change in your terminal".
 echo "----------------------------------------------------"
 
+sudo chsh `id -un` -s /bin/zsh 
 
 echo "################################################################"
 echo "###################    zsh installed     ######################"

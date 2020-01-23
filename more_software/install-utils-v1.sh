@@ -8,7 +8,7 @@
 ##################################################################################################################
 
 sudo snap install netbeans --classic
-sudo snap install notepad-plus-plus
+sudo snap install eclipse --classic
 sudo snap install utorrent
 
 ##################################################################################################################

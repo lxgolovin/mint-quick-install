@@ -1,13 +1,5 @@
 #!/bin/bash
 
-##################################################################################################################
-# Written to be used on 64 bits computers
-# Author 	: 	Erik Dubois
-# forked by
-# Author 	: 	Alexander Golovin
-# Website 	: 	https://eshkincode.ru
-##################################################################################################################
-
 sudo snap install pycharm-community --classic
 
 echo "################################################################"

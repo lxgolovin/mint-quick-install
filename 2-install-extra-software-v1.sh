@@ -7,9 +7,9 @@ set -e
 
 ###############################################################################################
 
-# Atom
+# Editors
 
-/bin/sh ./more_software/install-atom-v*.sh
+/bin/sh ./more_software/install-editors-v*.sh
 
 ###############################################################################################
 
@@ -17,12 +17,6 @@ set -e
 
 /bin/sh ./more_software/install-pycharm-v*.sh
 # sudo snap install pycharm-community --classic
-
-###############################################################################################
-
-# Eclipse + netbeans
-
-/bin/sh ./more_software/install-eclipse-netbeans-v*.sh
 
 ###############################################################################################
 
@@ -66,13 +60,6 @@ set -e
 # Simplescreenrecorder
 
 /bin/sh ./more_software/install-simplescreenrecorder-v*.sh
-
-###############################################################################################
-
-# Sublime text 3
-
-/bin/sh ./more_software/install-sublime-text-v*.sh
-
 
 ###############################################################################################
 
@@ -125,6 +112,9 @@ set -e
 # FileZilla installer
 
 /bin/sh ./more_software/install-filezilla-v*.sh
+
+# zsh
+/bin/sh ./more_software/install-zsh-v*.sh
 
 echo "################################################################"
 echo "###################   extra software installed  ################"
