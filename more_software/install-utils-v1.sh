@@ -10,6 +10,7 @@
 sudo snap install netbeans --classic
 sudo snap install eclipse --classic
 sudo snap install utorrent
+sudo snap install htop
 
 ##################################################################################################################
 
