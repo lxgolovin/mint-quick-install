@@ -116,6 +116,8 @@ set -e
 # Docker installer
 
 /bin/sh ./more_software/install-docker-v*.sh
+/bin/sh ./more_software/install-docker-machine-v*.sh
+/bin/sh ./more_software/install-docker-compose-v*.sh
 
 # zsh
 /bin/sh ./more_software/install-zsh-v*.sh
