@@ -1,7 +1,7 @@
 #!/bin/bash
 
-sudo snap install teams-for-linux
+sudo snap install zoom-client
 
 echo "################################################################"
-echo "###################     Teams installed    ###################"
+echo "###################    Zoom   installed   ######################"
 echo "################################################################"
