@@ -113,6 +113,10 @@ set -e
 
 /bin/sh ./more_software/install-filezilla-v*.sh
 
+# FileZilla installer
+
+/bin/sh ./more_software/install-zoom-v*.sh
+
 # Docker installer
 
 /bin/sh ./more_software/install-docker-v*.sh
