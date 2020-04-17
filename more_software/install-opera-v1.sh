@@ -1,8 +1,7 @@
 #!/bin/bash
-set -e
 
-sudo apt install -y nemo-dropbox adobe-flashplugin
+sudo snap install opera
 
 echo "################################################################"
-echo "#############      distro specific software    #################"
+echo "###################       Opera installed    ###################"
 echo "################################################################"

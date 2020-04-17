@@ -38,9 +38,10 @@ set -e
 
 ###############################################################################################
 
-# Google Chrome
+# Google Chrome and Opera
 
 /bin/sh ./more_software/install-google-chrome-v*.sh
+/bin/sh ./more_software/install-opera-v*.sh
 
 
 ###############################################################################################
