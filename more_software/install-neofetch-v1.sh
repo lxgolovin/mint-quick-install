@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# repo for spotify
+# repo for neofetch
 
 sudo add-apt-repository -y ppa:dawidd0811/neofetch
 

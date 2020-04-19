@@ -24,7 +24,7 @@ First update/upgrade your system with mintupdate icon at bottom right.
 
 We start the installation scripts of all the needed software via the terminal.
 
-	1-install-core-software-vx.sh
+    1-install-core-software-vx.sh
 	2-install-extra-software-vx.sh
 	3-install-themes-icons-cursors-conky-plank-vx.sh
 	4-install-distro-specific-software.sh
@@ -37,7 +37,6 @@ These three scripts will point to some of the other scripts in the folder. So ke
 
 The best of them
 
-	Spotify
 	Sublime Text
 	Variety
 	Inkscape

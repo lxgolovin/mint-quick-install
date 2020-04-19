@@ -6,7 +6,7 @@ sudo snap install sublime-text --classic
 sudo snap install notepad-plus-plus
 
 sudo snap install --edge nvim --classic
-sudo apt install vim
+sudo apt install vim -y
 curl -sLf https://spacevim.org/install.sh | bash
 
 echo "################################################################"

@@ -43,20 +43,10 @@ binding=['<Primary><Shift>Escape']
 command='gnome-system-monitor'
 name='gnome-system-monitor'
 
-[custom-keybindings/custom29]
-binding=['<Super>F10']
-command='spotify'
-name='spotify'
-
 [custom-keybindings/custom15]
 binding=['<Super>F9']
 command='evolution'
 name='evolution'
-
-[custom-keybindings/custom17]
-binding=['<Super>F10']
-command='spotify'
-name='spotify'
 
 [custom-keybindings/custom2]
 binding=['<Alt>n']
@@ -137,11 +127,6 @@ name='variety trash wallpaper'
 binding=['<Primary><Alt>e']
 command='evolution'
 name='evolution'
-
-[custom-keybindings/custom18]
-binding=['<Primary><Alt>s']
-command='spotify'
-name='spotify'
 
 [custom-keybindings/custom3]
 binding=['<Alt>p']
