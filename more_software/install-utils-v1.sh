@@ -12,6 +12,10 @@ sudo snap install eclipse --classic
 sudo snap install utorrent
 sudo snap install htop
 
+sudo apt-get update
+sudo apt-get install wireshark -y
+# sudo adduser `id -un` wireshark
+
 ##################################################################################################################
 
 echo "################################################################"
