@@ -114,7 +114,7 @@ set -e
 
 /bin/sh ./more_software/install-filezilla-v*.sh
 
-# FileZilla installer
+# Zoom installer
 
 /bin/sh ./more_software/install-zoom-v*.sh
 
