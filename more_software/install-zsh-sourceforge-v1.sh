@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+echo "################################################################"
+echo "###################    zsh installation  #######################"
+
 [ -d /tmp/zsh ] && rm -rf /tmp/zsh
 [ -f /tmp/zsh.tar.xz ] && rm -rf /tmp/zsh.tar.xz
 
