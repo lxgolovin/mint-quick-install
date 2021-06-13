@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-sudo apt install -y nemo-dropbox adobe-flashplugin
+sudo apt install -y python3-gpg nemo-dropbox adobe-flashplugin
 
 echo "################################################################"
 echo "#############      distro specific software    #################"

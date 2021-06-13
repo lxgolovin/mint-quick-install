@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "################################################################"
+echo "###################    zsh installation  #######################"
+
 sudo apt-get install zsh git wget -y
 wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh
 
@@ -26,7 +29,7 @@ echo
 echo "Log off or reboot to see the change in your terminal".
 echo "----------------------------------------------------"
 
-sudo chsh `id -un` -s /bin/zsh 
+sudo chsh `id -un` -s /bin/zsh
 
 echo "################################################################"
 echo "###################    zsh installed     ######################"

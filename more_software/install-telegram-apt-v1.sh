@@ -1,5 +1,8 @@
 #!/bin/bash
 #
+echo "################################################################"
+echo "###################   Telegram installation  ###################"
+
 sudo add-apt-repository -y ppa:atareao/telegram
 sudo apt-get update
 sudo apt-get install telegram-desktop -y
@@ -11,6 +14,5 @@ sudo sed -i s/$old/$new/g $location
 
 
 
-echo "################################################################"
 echo "###################   Telegram installed  ######################"
 echo "################################################################"

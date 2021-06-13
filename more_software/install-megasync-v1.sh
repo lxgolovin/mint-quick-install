@@ -7,7 +7,8 @@
 # Author 	: 	Alexander Golovin
 # Website 	: 	https://eshkincode.ru
 ##################################################################################################################
-# donwloading and installing google chrome for netflix e.g.
+echo "################################################################"
+echo "###################   MegaSync installation     ################"
 
 rm /tmp/megasync.deb
 
@@ -17,6 +18,5 @@ sudo dpkg -i /tmp/megasync.deb
 
 rm /tmp/megasync.deb
 
-echo "################################################################"
 echo "###################      MegaSync installed     ################"
 echo "################################################################"

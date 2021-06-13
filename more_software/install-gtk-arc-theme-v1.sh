@@ -2,6 +2,9 @@
 
 #https://github.com/horst3180/arc-theme
 
+echo "################################################################"
+echo "################### arc theme installation #####################"
+
 rm -rf /tmp/arc-theme
 
 sudo apt-get install build-essential autoconf automake pkg-config libgtk-3-0 libgtk-3-dev -y
@@ -12,6 +15,5 @@ sh autogen.sh --prefix=/usr
 sudo make install
 
 rm -rf /tmp/arc-theme
-echo "################################################################"
 echo "###################    arc theme installed #####################"
 echo "################################################################"
