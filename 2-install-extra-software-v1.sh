@@ -102,9 +102,11 @@ set -e
 
 /bin/sh ./more_software/install-remmina-v*.sh
 
-# Teams installer
+# Teams/slack/skype installer
 
 # /bin/sh ./more_software/install-teams-v*.sh
+/bin/sh ./more_software/install-slack-v*.sh
+# /bin/sh ./more_software/install-skype-v*.sh
 
 # Grub installer
 
